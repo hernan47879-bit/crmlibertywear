@@ -1,0 +1,16 @@
+{
+  "name": "crm-liberty-wear",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión Comercial, CRM, Presupuestos y Pedidos - Liberty Wear",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
